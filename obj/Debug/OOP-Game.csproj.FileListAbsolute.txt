@@ -1,0 +1,7 @@
+C:\Projects\Learning\OOP-Game\bin\Debug\OOP-Game.exe.config
+C:\Projects\Learning\OOP-Game\bin\Debug\OOP-Game.exe
+C:\Projects\Learning\OOP-Game\bin\Debug\OOP-Game.pdb
+C:\Projects\Learning\OOP-Game\obj\Debug\OOP-Game.csproj.CoreCompileInputs.cache
+C:\Projects\Learning\OOP-Game\obj\Debug\OOP-Game.exe
+C:\Projects\Learning\OOP-Game\obj\Debug\OOP-Game.pdb
+C:\Projects\Learning\OOP-Game\obj\Debug\OOP-Game.csprojResolveAssemblyReference.cache
